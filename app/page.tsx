@@ -1,9 +1,7 @@
-import React from 'react'
-
-const page = () => {
+const Home = () => {
   return (
-    <div className='text-blue-600'>Hello World this is 2026</div>
+    <div className='text-blue-600'>Hello World </div>
   )
 }
 
-export default page
+export default Home
